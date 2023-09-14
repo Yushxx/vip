@@ -3,7 +3,7 @@ from telegram import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
 
 # Remplacez 'YOUR_BOT_TOKEN' par le token de votre bot Telegram
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_TOKEN = '6620841571:AAEwg-qZM0I_cIPEKDkoM8yaHmIOmo-ll_k'
 
 # Créez un dictionnaire pour stocker l'état de l'utilisateur
 user_data = {}
